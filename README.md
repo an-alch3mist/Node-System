@@ -1,4 +1,4 @@
-# Node System
+# ```Node System```
 
 ## ```AttemptAcceptFromInputs()```
 ----
@@ -101,7 +101,7 @@ void moveQ()
 }
 ```
 
-## Node
+## ```Node```
 ----
 ```C#
 public class Node
