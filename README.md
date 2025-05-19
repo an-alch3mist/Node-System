@@ -1,8 +1,6 @@
 # Node System
 
-```ref```: [```seek```](https://chatgpt.com/share/682b6ad4-7714-800a-990b-ffffc3d3ec78)
-
-## AttemptAcceptFromInputs()
+## ```AttemptAcceptFromInputs()```
 ----
 
 ```C#
@@ -36,7 +34,7 @@ void AttemptAcceptFromInputs()
 ```
 
 
-## AttemptSendToSuccessor()
+## ```AttemptSendToSuccessor()```
 ----
 ```C#
 [serielizedfield] int lastOutIndex = 0;
@@ -70,7 +68,7 @@ void AttemptSendToSuccessor()
 }
 ```
 
-## SlideRemainingItems()
+## ```SlideRemainingItems()```
 ----
 ```C#
 void SlideRemainingItems()
@@ -87,7 +85,7 @@ void SlideRemainingItems()
 }
 ```
 
-## moveQ()
+## ```moveQ()```
 ----
 ```C#
 void moveQ()
@@ -135,5 +133,6 @@ public class Item
 	public GameObject go;
 }
 ```
+```ref```: [```seek```](https://chatgpt.com/share/682b6ad4-7714-800a-990b-ffffc3d3ec78)
 
 
